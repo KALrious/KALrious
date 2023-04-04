@@ -1,3 +1,5 @@
+![Kalrious](https://www.kalrious.com/_next/image?url=%2Fimages%2Fspider.png&w=128&q=75)
+
 ### Hello there I'm Jean 👋
 
 - 🔭 I’m currently working at [the Sherpas](https://sherpas.com/)
