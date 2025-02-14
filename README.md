@@ -18,6 +18,7 @@
 
 - 🖌️ [Kalrious blog](https://www.kalrious.com/)
 - 🐦️ [Twitter](https://twitter.com/Kalrious)
+- 💼 [tech-craft](https://tech-craft.fr)
 
 <!--
 **KALrious/KALrious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
