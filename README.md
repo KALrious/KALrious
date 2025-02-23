@@ -1,4 +1,4 @@
-![Kalrious](https://www.kalrious.com/_next/image?url=%2Fimages%2Fspider.png&w=128&q=75)
+![Kalrious](https://avatars.githubusercontent.com/u/31030552?s=400&u=5658d2b584dc0f0ab9189110ceda51ab135ae887&v=4)
 
 ### Hello there I'm Jean 👋
 
